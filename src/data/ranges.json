@@ -1,0 +1,114 @@
+{
+  "MTT": {
+    "200": {
+      "UTG": { "RFI": ["AA","KK","QQ","JJ","TT","AKs","AQs","AJs","ATs","KQs","AKo"] },
+      "MP":  { "RFI": ["AA","KK","QQ","JJ","TT","99","AKs","AQs","AJs","ATs","KQs","AKo","AQo"] },
+      "HJ":  { "RFI": ["AA","KK","QQ","JJ","TT","99","AKs","AQs","AJs","ATs","KQs","AJo","AKo","AQo"] },
+      "CO":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","AKs","AQs","AJs","ATs","A9s","KQs","KJs","QJs","AKo","AQo","AJo","KQo"] },
+      "BTN": { "RFI": ["AA","KK","QQ","JJ","TT","99","88","77","66","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","KQs","KJs","KTs","QJs","QTs","JTs","AKo","AQo","AJo","ATo","KQo","KJo"] },
+      "SB":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","A9s","KQs","KJs","AKo","AQo","AJo","KQo"] },
+      "BB":  { "RFI": [] }
+    },
+    "100": {
+      "UTG": { "RFI": ["AA","KK","QQ","JJ","TT","AKs","AQs","AKo"] },
+      "MP":  { "RFI": ["AA","KK","QQ","JJ","TT","99","AKs","AQs","AJs","AKo","AQo"] },
+      "HJ":  { "RFI": ["AA","KK","QQ","JJ","TT","99","AKs","AQs","AJs","AKo","AQo"] },
+      "CO":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","AKs","AQs","AJs","ATs","KQs","AKo","AQo","AJo"] },
+      "BTN": { "RFI": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","A9s","A8s","A5s","KQs","KJs","QJs","JTs","AKo","AQo","AJo","ATo","KQo"] },
+      "SB":  { "RFI": ["AA","KK","QQ","JJ","TT","99","AKs","AQs","AJs","ATs","KQs","AKo","AQo"] },
+      "BB":  { "RFI": [] }
+    },
+    "50": {
+      "UTG": { "RFI": ["AA","KK","QQ","JJ","TT","AKs","AQs","AKo"], "PUSH": [] },
+      "MP":  { "RFI": ["AA","KK","QQ","JJ","TT","99","AKs","AQs","AJs","AKo","AQo"], "PUSH": [] },
+      "HJ":  { "RFI": ["AA","KK","QQ","JJ","TT","99","AKs","AQs","AKo","AQo"], "PUSH": [] },
+      "CO":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","AKs","AQs","AJs","KQs","AKo","AQo"], "PUSH": [] },
+      "BTN": { "RFI": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","A5s","KQs","KJs","QJs","AKo","AQo","AJo","KQo"], "PUSH": [] },
+      "SB":  { "RFI": ["AA","KK","QQ","JJ","TT","99","AKs","AQs","AKo","AQo"], "PUSH": [] },
+      "BB":  { "RFI": [], "PUSH": [] }
+    },
+    "20": {
+      "UTG": { "RFI": [], "PUSH": ["AA","KK","QQ","JJ","TT","99","AKs","AQs","AJs","AKo","AQo"] },
+      "MP":  { "RFI": [], "PUSH": ["AA","KK","QQ","JJ","TT","99","88","AKs","AQs","AJs","AKo","AQo","AJo"] },
+      "HJ":  { "RFI": [], "PUSH": ["AA","KK","QQ","JJ","TT","99","88","AKs","AQs","AJs","ATs","AKo","AQo","AJo"] },
+      "CO":  { "RFI": [], "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","A9s","A8s","KQs","AKo","AQo","AJo","ATo"] },
+      "BTN": { "RFI": [], "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","KQs","KJs","KTs","QJs","AKo","AQo","AJo","ATo","A9o","KQo","KJo"] },
+      "SB":  { "RFI": [], "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","A9s","KQs","KJs","AKo","AQo","AJo","KQo"] },
+      "BB":  { "RFI": [], "PUSH": [] }
+    },
+    "10": {
+      "UTG": { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","AKs","AQs","AJs","ATs","AKo","AQo","AJo"] },
+      "MP":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","AKo","AQo","AJo","ATo"] },
+      "HJ":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","A9s","AKo","AQo","AJo","ATo"] },
+      "CO":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A5s","KQs","KJs","QJs","AKo","AQo","AJo","ATo","A9o","KQo"] },
+      "BTN": { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","44","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","A4s","A3s","A2s","KQs","KJs","KTs","K9s","QJs","QTs","JTs","AKo","AQo","AJo","ATo","A9o","A8o","KQo","KJo","KTo","QJo"] },
+      "SB":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A5s","KQs","KJs","QJs","AKo","AQo","AJo","ATo","KQo","KJo"] },
+      "BB":  { "PUSH": [] }
+    },
+    "8": {
+      "UTG": { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A5s","KQs","AKo","AQo","AJo","ATo","A9o","KQo"] },
+      "MP":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A5s","KQs","KJs","AKo","AQo","AJo","ATo","A9o","KQo"] },
+      "HJ":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","KQs","KJs","QJs","AKo","AQo","AJo","ATo","A9o","KQo","KJo"] },
+      "CO":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","A4s","A3s","A2s","KQs","KJs","KTs","QJs","QTs","JTs","AKo","AQo","AJo","ATo","A9o","A8o","KQo","KJo","KTo","QJo"] },
+      "BTN": { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","44","33","22","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","A4s","A3s","A2s","KQs","KJs","KTs","K9s","K8s","K7s","K6s","K5s","K4s","K3s","K2s","QJs","QTs","Q9s","JTs","J9s","T9s","AKo","AQo","AJo","ATo","A9o","A8o","A7o","KQo","KJo","KTo","K9o","QJo","QTo","JTo"] },
+      "SB":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","A4s","A3s","A2s","KQs","KJs","KTs","K9s","QJs","QTs","JTs","AKo","AQo","AJo","ATo","A9o","A8o","KQo","KJo","KTo","QJo"] },
+      "BB":  { "PUSH": [] }
+    }
+  },
+  "CASH": {
+    "200": {
+      "UTG": { "RFI": ["AA","KK","QQ","JJ","TT","99","AKs","AQs","AJs","ATs","KQs","AKo","AQo"] },
+      "MP":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","AKs","AQs","AJs","ATs","KQs","AKo","AQo","AJo"] },
+      "HJ":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","AKs","AQs","AJs","ATs","KQs","KJs","AKo","AQo","AJo"] },
+      "CO":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","A9s","A8s","A5s","KQs","KJs","KTs","QJs","AKo","AQo","AJo","ATo","KQo"] },
+      "BTN": { "RFI": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","A4s","A3s","A2s","KQs","KJs","KTs","K9s","QJs","QTs","JTs","T9s","98s","87s","AKo","AQo","AJo","ATo","A9o","KQo","KJo","KTo","QJo"] },
+      "SB":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","A9s","KQs","KJs","AKo","AQo","AJo","KQo"] },
+      "BB":  { "RFI": [] }
+    },
+    "100": {
+      "UTG": { "RFI": ["AA","KK","QQ","JJ","TT","99","AKs","AQs","AJs","KQs","AKo","AQo"] },
+      "MP":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","AKs","AQs","AJs","ATs","KQs","AKo","AQo"] },
+      "HJ":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","AKs","AQs","AJs","ATs","KQs","KJs","AKo","AQo","AJo"] },
+      "CO":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","A9s","A5s","KQs","KJs","QJs","JTs","AKo","AQo","AJo","ATo","KQo"] },
+      "BTN": { "RFI": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","A4s","A3s","A2s","KQs","KJs","KTs","QJs","QTs","JTs","T9s","98s","AKo","AQo","AJo","ATo","A9o","KQo","KJo","QJo"] },
+      "SB":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","AKs","AQs","AJs","ATs","KQs","AKo","AQo","AJo"] },
+      "BB":  { "RFI": [] }
+    },
+    "50": {
+      "UTG": { "RFI": ["AA","KK","QQ","JJ","TT","99","AKs","AQs","AJs","AKo","AQo"] },
+      "MP":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","AKs","AQs","AJs","AKo","AQo","AJo"] },
+      "HJ":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","AKs","AQs","AJs","ATs","KQs","AKo","AQo","AJo"] },
+      "CO":  { "RFI": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","KQs","KJs","AKo","AQo","AJo","KQo"] },
+      "BTN": { "RFI": ["AA","KK","QQ","JJ","TT","99","88","77","66","AKs","AQs","AJs","ATs","A9s","A8s","A5s","KQs","KJs","QJs","JTs","AKo","AQo","AJo","ATo","KQo"] },
+      "SB":  { "RFI": ["AA","KK","QQ","JJ","TT","99","AKs","AQs","AJs","KQs","AKo","AQo"] },
+      "BB":  { "RFI": [] }
+    },
+    "20": {
+      "UTG": { "RFI": [], "PUSH": ["AA","KK","QQ","JJ","TT","99","88","AKs","AQs","AJs","ATs","AKo","AQo","AJo"] },
+      "MP":  { "RFI": [], "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","AKo","AQo","AJo","ATo"] },
+      "HJ":  { "RFI": [], "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","A9s","AKo","AQo","AJo","ATo"] },
+      "CO":  { "RFI": [], "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","AKs","AQs","AJs","ATs","A9s","A8s","A5s","KQs","KJs","AKo","AQo","AJo","ATo","KQo"] },
+      "BTN": { "RFI": [], "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","44","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","A4s","A3s","A2s","KQs","KJs","KTs","QJs","QTs","JTs","AKo","AQo","AJo","ATo","A9o","KQo","KJo","QJo"] },
+      "SB":  { "RFI": [], "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","A9s","A8s","KQs","KJs","AKo","AQo","AJo","ATo","KQo"] },
+      "BB":  { "RFI": [], "PUSH": [] }
+    },
+    "10": {
+      "UTG": { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","AKs","AQs","AJs","ATs","A9s","A8s","A5s","KQs","AKo","AQo","AJo","ATo","KQo"] },
+      "MP":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","AKs","AQs","AJs","ATs","A9s","A8s","A5s","KQs","AKo","AQo","AJo","ATo","A9o","KQo"] },
+      "HJ":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A5s","KQs","KJs","AKo","AQo","AJo","ATo","A9o","KQo"] },
+      "CO":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","A4s","KQs","KJs","KTs","QJs","JTs","AKo","AQo","AJo","ATo","A9o","A8o","KQo","KJo","QJo"] },
+      "BTN": { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","44","33","22","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","A4s","A3s","A2s","KQs","KJs","KTs","K9s","K8s","K7s","K6s","K5s","QJs","QTs","Q9s","JTs","J9s","T9s","98s","87s","76s","65s","AKo","AQo","AJo","ATo","A9o","A8o","A7o","A6o","KQo","KJo","KTo","K9o","QJo","QTo","JTo"] },
+      "SB":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","A4s","A3s","A2s","KQs","KJs","KTs","QJs","QTs","JTs","AKo","AQo","AJo","ATo","A9o","A8o","KQo","KJo","KTo","QJo"] },
+      "BB":  { "PUSH": [] }
+    },
+    "8": {
+      "UTG": { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","KQs","KJs","KTs","AKo","AQo","AJo","ATo","A9o","KQo","KJo"] },
+      "MP":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","KQs","KJs","KTs","AKo","AQo","AJo","ATo","A9o","A8o","KQo","KJo"] },
+      "HJ":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","A4s","A3s","A2s","KQs","KJs","KTs","K9s","QJs","QTs","JTs","AKo","AQo","AJo","ATo","A9o","A8o","KQo","KJo","KTo","QJo"] },
+      "CO":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","44","33","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","A4s","A3s","A2s","KQs","KJs","KTs","K9s","K8s","QJs","QTs","Q9s","JTs","J9s","T9s","98s","AKo","AQo","AJo","ATo","A9o","A8o","A7o","KQo","KJo","KTo","K9o","QJo","QTo","JTo"] },
+      "BTN": { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","44","33","22","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","A4s","A3s","A2s","KQs","KJs","KTs","K9s","K8s","K7s","K6s","K5s","K4s","K3s","K2s","QJs","QTs","Q9s","Q8s","JTs","J9s","J8s","T9s","T8s","98s","97s","87s","76s","65s","54s","AKo","AQo","AJo","ATo","A9o","A8o","A7o","A6o","KQo","KJo","KTo","K9o","K8o","QJo","QTo","Q9o","JTo","J9o","T9o"] },
+      "SB":  { "PUSH": ["AA","KK","QQ","JJ","TT","99","88","77","66","55","44","AKs","AQs","AJs","ATs","A9s","A8s","A7s","A6s","A5s","A4s","A3s","A2s","KQs","KJs","KTs","K9s","K8s","QJs","QTs","Q9s","JTs","J9s","T9s","98s","AKo","AQo","AJo","ATo","A9o","A8o","A7o","KQo","KJo","KTo","K9o","QJo","QTo","JTo"] },
+      "BB":  { "PUSH": [] }
+    }
+  }
+}
