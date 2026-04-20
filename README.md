@@ -3,7 +3,7 @@
 A high-performance interactive tool for poker players to visualize and manage preflop ranges. Built with **React** and **Vite**, featuring advanced data processing scripts.
 
 ## 🚀 Live Demo
-[Link to your live site](https://axxx82.github.io/poker-preflop-ranges/)
+[Посмотреть проект вживую (Live Demo)](https://axxx82.github.io/poker-preflop-ranges/)
 
 ## 🛠 Features
 * **Interactive Range Grid:** Visual representation of RFI (Raise First In) charts.
