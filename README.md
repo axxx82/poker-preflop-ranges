@@ -1,27 +1,21 @@
-# "birthday-calendar"
+# 🃏 Interactive Poker Preflop Assistant (MVP)
 
-Это календарь дней рождений.
+A high-performance interactive tool for poker players to visualize and manage preflop ranges. Built with **React** and **Vite**, featuring advanced data processing scripts.
 
-## Как запустить приложение самостоятельно
+## 🚀 Live Demo
+[Link to your live site](https://axxx82.github.io/poker-preflop-ranges/)
 
-Для запуска приложения на вашем компьютере выполните следующие шаги:
+## 🛠 Features
+* **Interactive Range Grid:** Visual representation of RFI (Raise First In) charts.
+* **Position Filtering:** Switch between different table positions to see specific ranges.
+* **Data Processing:** Includes custom Python and JS scripts for parsing complex poker data from Excel/JSON.
+* **Modern Tech Stack:** React 18, Tailwind CSS, and Vite for lightning-fast performance.
 
-1. **Откройте терминал** (или PowerShell / Командную строку).
-2. **Перейдите в папку с проектом**:
-   ```bash
-   cd c:\Users\axxx8\poker-preflop-app
-   ```
-3. **Запустите сервер разработки**:
-   ```bash
-   npm run dev
-   ```
-4. **Откройте браузер** по адресу:
-   [http://localhost:5173](http://localhost:5173)
+## 📈 Project Status: MVP / Alpha
+This project is currently in the **MVP (Minimum Viable Product)** stage. 
+* The UI and core logic are fully functional.
+* Range data is currently being populated (placeholder data used in some sections).
+* **Next in roadmap:** GTO solver integration and mobile optimization.
 
 ---
-
-## Основные команды
-
-- `npm run dev` — запуск в режиме разработки (автоматическое обновление при изменении кода).
-- `npm run build` — сборка проекта для публикации.
-- `npm run preview` — предварительный просмотр собранного проекта.
+*Developed as a demonstration of React development skills and complex logic implementation.*
